@@ -1,4 +1,4 @@
 module_karma
 ============
 
-FruityWiFi karma module
+BlackBlulb karma module
